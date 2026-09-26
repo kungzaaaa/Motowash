@@ -1,0 +1,8 @@
+{
+  "name": "motowash-workspace",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
